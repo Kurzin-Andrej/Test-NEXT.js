@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="82.146.56.68" id="49a28ad9-3604-44b4-9235-f83d86f48ae6" port="22" customName="eoforum" nameFormat="CUSTOM" username="bitrix" useOpenSSHConfig="true">
+        <option name="customName" value="eoforum" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
